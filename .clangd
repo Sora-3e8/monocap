@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+  - -Wall
+  - -std=c++11
+  - -I../include
+  - -I/usr/include/opencv4
+
